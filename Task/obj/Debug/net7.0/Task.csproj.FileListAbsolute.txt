@@ -1,0 +1,15 @@
+C:\Users\fyod-\Desktop\Control work\Task\bin\Debug\net7.0\Task.exe
+C:\Users\fyod-\Desktop\Control work\Task\bin\Debug\net7.0\Task.deps.json
+C:\Users\fyod-\Desktop\Control work\Task\bin\Debug\net7.0\Task.runtimeconfig.json
+C:\Users\fyod-\Desktop\Control work\Task\bin\Debug\net7.0\Task.dll
+C:\Users\fyod-\Desktop\Control work\Task\bin\Debug\net7.0\Task.pdb
+C:\Users\fyod-\Desktop\Control work\Task\obj\Debug\net7.0\Task.csproj.AssemblyReference.cache
+C:\Users\fyod-\Desktop\Control work\Task\obj\Debug\net7.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fyod-\Desktop\Control work\Task\obj\Debug\net7.0\Task.AssemblyInfoInputs.cache
+C:\Users\fyod-\Desktop\Control work\Task\obj\Debug\net7.0\Task.AssemblyInfo.cs
+C:\Users\fyod-\Desktop\Control work\Task\obj\Debug\net7.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\fyod-\Desktop\Control work\Task\obj\Debug\net7.0\Task.dll
+C:\Users\fyod-\Desktop\Control work\Task\obj\Debug\net7.0\refint\Task.dll
+C:\Users\fyod-\Desktop\Control work\Task\obj\Debug\net7.0\Task.pdb
+C:\Users\fyod-\Desktop\Control work\Task\obj\Debug\net7.0\Task.genruntimeconfig.cache
+C:\Users\fyod-\Desktop\Control work\Task\obj\Debug\net7.0\ref\Task.dll
